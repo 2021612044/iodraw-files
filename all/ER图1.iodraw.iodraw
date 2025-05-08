@@ -1569,7 +1569,7 @@
         <mxCell id="v6lAXG_b1BkWVNJ9srUH-348" value="applies to" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERoneToMany;endSize=10;;exitX=0;exitY=0.58;entryX=0;entryY=0.35;rounded=0;" edge="1" parent="1" source="v6lAXG_b1BkWVNJ9srUH-1" target="v6lAXG_b1BkWVNJ9srUH-288">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="110" y="340" />
+              <mxPoint x="160" y="310" />
               <mxPoint x="50" y="1150" />
             </Array>
           </mxGeometry>
@@ -1590,7 +1590,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v6lAXG_b1BkWVNJ9srUH-351" value="is favorited by" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERoneToMany;endSize=10;;exitX=1;exitY=0.68;entryX=0.449;entryY=1;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v6lAXG_b1BkWVNJ9srUH-95" target="v6lAXG_b1BkWVNJ9srUH-338">
+        <mxCell id="v6lAXG_b1BkWVNJ9srUH-351" value="is favorited by" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERoneToMany;endSize=10;;exitX=1;exitY=0.5;entryX=0.449;entryY=1;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="v6lAXG_b1BkWVNJ9srUH-116" target="v6lAXG_b1BkWVNJ9srUH-338">
           <mxGeometry x="0.2227" y="28" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1050" y="970" />
