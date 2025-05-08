@@ -770,7 +770,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jPlVsEmVetPwBrq6YD9X-507" value="Favorite_Job" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="933" y="692" width="144" height="46" as="geometry" />
+          <mxGeometry x="806.5" y="680" width="144" height="46" as="geometry" />
         </mxCell>
         <mxCell id="jPlVsEmVetPwBrq6YD9X-508" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="jPlVsEmVetPwBrq6YD9X-507">
           <mxGeometry y="25" width="144" height="21" as="geometry" />
@@ -828,7 +828,7 @@
         <mxCell id="jPlVsEmVetPwBrq6YD9X-518" value="favorites" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1;exitY=0.94;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="jPlVsEmVetPwBrq6YD9X-275" target="jPlVsEmVetPwBrq6YD9X-507">
           <mxGeometry x="-0.1696" y="-20" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1017" y="554" />
+              <mxPoint x="879" y="560" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -844,7 +844,7 @@
         <mxCell id="jPlVsEmVetPwBrq6YD9X-520" value="applies" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1;exitY=0.72;entryX=1;entryY=0.22;rounded=0;" edge="1" parent="1" source="jPlVsEmVetPwBrq6YD9X-275" target="jPlVsEmVetPwBrq6YD9X-386">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1201" y="554" />
+              <mxPoint x="1060" y="520" />
               <mxPoint x="1040" y="1240" />
             </Array>
           </mxGeometry>
