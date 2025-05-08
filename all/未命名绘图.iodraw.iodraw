@@ -834,17 +834,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jPlVsEmVetPwBrq6YD9X-519" value="applied for" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.5;exitY=1;entryX=0;entryY=0.22;rounded=0;" edge="1" parent="1" source="jPlVsEmVetPwBrq6YD9X-353" target="jPlVsEmVetPwBrq6YD9X-386">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0606" y="6" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="160" y="1200" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jPlVsEmVetPwBrq6YD9X-520" value="applies" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1;exitY=0.72;entryX=1;entryY=0.22;rounded=0;" edge="1" parent="1" source="jPlVsEmVetPwBrq6YD9X-275" target="jPlVsEmVetPwBrq6YD9X-386">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1201" y="554" />
-              <mxPoint x="1201" y="1176" />
+              <mxPoint x="1040" y="1240" />
             </Array>
           </mxGeometry>
         </mxCell>
