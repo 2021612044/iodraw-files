@@ -1582,11 +1582,10 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1115" y="358" />
-              <mxPoint x="1270" y="650" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v6lAXG_b1BkWVNJ9srUH-351" value="is favorited by" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERoneToMany;endSize=10;;exitX=1;exitY=0.68;entryX=0.62;entryY=0;rounded=0;" edge="1" parent="1" source="v6lAXG_b1BkWVNJ9srUH-95" target="v6lAXG_b1BkWVNJ9srUH-325">
+        <mxCell id="v6lAXG_b1BkWVNJ9srUH-351" value="is favorited by" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERoneToMany;endSize=10;;exitX=1;exitY=0.68;entryX=0.449;entryY=1;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v6lAXG_b1BkWVNJ9srUH-95" target="v6lAXG_b1BkWVNJ9srUH-338">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1215" y="1156" />
