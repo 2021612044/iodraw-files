@@ -1213,18 +1213,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jPlVsEmVetPwBrq6YD9X-269" value="applies" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1;exitY=0.67;entryX=0;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jPlVsEmVetPwBrq6YD9X-1" target="jPlVsEmVetPwBrq6YD9X-172">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.2952" y="-41" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1470" y="660" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jPlVsEmVetPwBrq6YD9X-270" value="received" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1;exitY=0.71;rounded=0;" edge="1" parent="1" source="jPlVsEmVetPwBrq6YD9X-94">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.275" y="44" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1527" y="1412" />
             </Array>
             <mxPoint x="1520" y="1080" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jPlVsEmVetPwBrq6YD9X-271" value="contains" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.84;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="jPlVsEmVetPwBrq6YD9X-127" target="jPlVsEmVetPwBrq6YD9X-202">
