@@ -10,7 +10,7 @@
         <mxCell id="v6lAXG_b1BkWVNJ9srUH-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="v6lAXG_b1BkWVNJ9srUH-1">
           <mxGeometry y="25" width="166" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="v6lAXG_b1BkWVNJ9srUH-3" value="int" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="v6lAXG_b1BkWVNJ9srUH-2">
+        <mxCell id="v6lAXG_b1BkWVNJ9srUH-3" value="bigint" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="v6lAXG_b1BkWVNJ9srUH-2">
           <mxGeometry width="48" height="22" as="geometry">
             <mxRectangle width="48" height="22" as="alternateBounds" />
           </mxGeometry>
@@ -1591,9 +1591,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v6lAXG_b1BkWVNJ9srUH-351" value="is favorited by" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERoneToMany;endSize=10;;exitX=1;exitY=0.5;entryX=0.449;entryY=1;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="v6lAXG_b1BkWVNJ9srUH-116" target="v6lAXG_b1BkWVNJ9srUH-338">
-          <mxGeometry x="0.2227" y="28" relative="1" as="geometry">
+          <mxGeometry x="0.2631" y="7" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1050" y="970" />
+              <mxPoint x="1050" y="960" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
