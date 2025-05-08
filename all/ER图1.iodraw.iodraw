@@ -1567,8 +1567,8 @@
         <mxCell id="v6lAXG_b1BkWVNJ9srUH-348" value="applies to" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERoneToMany;endSize=10;;exitX=0;exitY=0.58;entryX=0;entryY=0.35;rounded=0;fontSize=16;" parent="1" source="v6lAXG_b1BkWVNJ9srUH-1" target="v6lAXG_b1BkWVNJ9srUH-288" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="160" y="310" />
-              <mxPoint x="50" y="1380" />
+              <mxPoint x="190" y="165" />
+              <mxPoint x="30" y="1318" />
             </Array>
           </mxGeometry>
         </mxCell>
