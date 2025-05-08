@@ -825,10 +825,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jPlVsEmVetPwBrq6YD9X-518" value="favorites" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1;exitY=0.94;entryX=0.5;entryY=0;rounded=0;fontSize=16;" edge="1" parent="1" source="jPlVsEmVetPwBrq6YD9X-275" target="jPlVsEmVetPwBrq6YD9X-507">
-          <mxGeometry x="-0.1696" y="-20" relative="1" as="geometry">
+        <mxCell id="jPlVsEmVetPwBrq6YD9X-518" value="favorites" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=-0.005;exitY=1.091;entryX=0.5;entryY=0;rounded=0;fontSize=16;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jPlVsEmVetPwBrq6YD9X-312" target="jPlVsEmVetPwBrq6YD9X-507">
+          <mxGeometry x="-0.1532" y="7" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="879" y="560" />
+              <mxPoint x="390" y="560" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
