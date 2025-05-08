@@ -1215,7 +1215,7 @@
         <mxCell id="jPlVsEmVetPwBrq6YD9X-269" value="applies" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1;exitY=0.67;entryX=0.32;entryY=0;rounded=0;" edge="1" parent="1" source="jPlVsEmVetPwBrq6YD9X-1" target="jPlVsEmVetPwBrq6YD9X-172">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1401" y="746" />
+              <mxPoint x="920" y="1040" />
               <mxPoint x="1401" y="1412" />
             </Array>
           </mxGeometry>
