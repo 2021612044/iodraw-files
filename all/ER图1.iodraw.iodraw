@@ -1586,10 +1586,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v6lAXG_b1BkWVNJ9srUH-351" value="is favorited by" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERoneToMany;endSize=10;;exitX=1;exitY=0.68;entryX=0.449;entryY=1;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v6lAXG_b1BkWVNJ9srUH-95" target="v6lAXG_b1BkWVNJ9srUH-338">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.2227" y="28" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1215" y="1156" />
+              <mxPoint x="1160" y="970" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
