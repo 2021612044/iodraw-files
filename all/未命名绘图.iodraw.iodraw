@@ -843,7 +843,7 @@
             <mxRectangle width="175" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jPlVsEmVetPwBrq6YD9X-188" value="简历查看权限（0未授权，1已授权）" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="jPlVsEmVetPwBrq6YD9X-185">
+        <mxCell id="jPlVsEmVetPwBrq6YD9X-188" value="简历查看权限" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=11;" vertex="1" parent="jPlVsEmVetPwBrq6YD9X-185">
           <mxGeometry x="247" width="114" height="22" as="geometry">
             <mxRectangle width="114" height="22" as="alternateBounds" />
           </mxGeometry>
@@ -1213,7 +1213,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jPlVsEmVetPwBrq6YD9X-269" value="applies" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1;exitY=0.67;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jPlVsEmVetPwBrq6YD9X-1" target="jPlVsEmVetPwBrq6YD9X-172">
-          <mxGeometry x="-0.2952" y="-41" relative="1" as="geometry">
+          <mxGeometry x="-0.0562" y="-53" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1470" y="660" />
             </Array>
