@@ -770,19 +770,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jPlVsEmVetPwBrq6YD9X-507" value="Favorite_Job" style="shape=table;startSize=25;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=1;fontStyle=1;align=center;resizeLast=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="806.5" y="680" width="183.5" height="50" as="geometry" />
+          <mxGeometry x="285.5" y="650" width="183.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jPlVsEmVetPwBrq6YD9X-508" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;fontSize=16;" vertex="1" parent="jPlVsEmVetPwBrq6YD9X-507">
           <mxGeometry y="25" width="183.5" height="21" as="geometry" />
         </mxCell>
         <mxCell id="jPlVsEmVetPwBrq6YD9X-509" value="datetime" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=16;" vertex="1" parent="jPlVsEmVetPwBrq6YD9X-508">
-          <mxGeometry width="63.5" height="21" as="geometry">
-            <mxRectangle width="63.5" height="21" as="alternateBounds" />
+          <mxGeometry width="83.5" height="21" as="geometry">
+            <mxRectangle width="83.5" height="21" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jPlVsEmVetPwBrq6YD9X-510" value="gmt_create" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=16;" vertex="1" parent="jPlVsEmVetPwBrq6YD9X-508">
-          <mxGeometry x="63.5" width="120" height="21" as="geometry">
-            <mxRectangle width="120" height="21" as="alternateBounds" />
+          <mxGeometry x="83.5" width="100" height="21" as="geometry">
+            <mxRectangle width="100" height="21" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jPlVsEmVetPwBrq6YD9X-512" value="owns" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.62;entryX=0.5;entryY=0;rounded=0;fontSize=16;" edge="1" parent="1" source="jPlVsEmVetPwBrq6YD9X-275" target="jPlVsEmVetPwBrq6YD9X-316">
