@@ -786,10 +786,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jPlVsEmVetPwBrq6YD9X-512" value="owns" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.62;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="jPlVsEmVetPwBrq6YD9X-275" target="jPlVsEmVetPwBrq6YD9X-316">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0878" y="6" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="133" y="554" />
+              <mxPoint x="220" y="510" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jPlVsEmVetPwBrq6YD9X-513" value="posts" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="jPlVsEmVetPwBrq6YD9X-316" target="jPlVsEmVetPwBrq6YD9X-353">
