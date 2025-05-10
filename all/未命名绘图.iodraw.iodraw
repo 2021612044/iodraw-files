@@ -16,7 +16,7 @@
         <mxCell id="eSlpPb96G4L9tQq7b6oB-4" value="应用端&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="20" y="14" width="335" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="eSlpPb96G4L9tQq7b6oB-5" value="交互层&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="eSlpPb96G4L9tQq7b6oB-5" value="交互层&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="45.5" y="49.5" width="285" height="227" as="geometry" />
         </mxCell>
         <mxCell id="eSlpPb96G4L9tQq7b6oB-6" value="就业平台&#xa;微信小程序端" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
