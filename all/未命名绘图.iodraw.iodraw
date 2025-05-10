@@ -14,7 +14,7 @@
           <mxGeometry x="420" y="40" width="175" height="228" as="geometry" />
         </mxCell>
         <mxCell id="eSlpPb96G4L9tQq7b6oB-4" value="&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;应用端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="30" y="110" width="335" height="280" as="geometry" />
+          <mxGeometry x="45" y="170" width="335" height="280" as="geometry" />
         </mxCell>
         <mxCell id="eSlpPb96G4L9tQq7b6oB-5" value="交互层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="45" y="50" width="285" height="217" as="geometry" />
