@@ -20,7 +20,7 @@
           <mxGeometry x="45.5" y="49.5" width="285" height="227" as="geometry" />
         </mxCell>
         <mxCell id="eSlpPb96G4L9tQq7b6oB-6" value="就业平台&#xa;微信小程序端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="70" y="89" width="235" height="48" as="geometry" />
+          <mxGeometry x="70" y="89" width="210" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eSlpPb96G4L9tQq7b6oB-7" value="后台管理&#xa;网页端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="94" y="188" width="188" height="48" as="geometry" />
