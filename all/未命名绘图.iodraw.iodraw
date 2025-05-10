@@ -17,13 +17,13 @@
           <mxGeometry x="20" y="14" width="335" height="280" as="geometry" />
         </mxCell>
         <mxCell id="eSlpPb96G4L9tQq7b6oB-5" value="交互层&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="45.5" y="45.5" width="285" height="227" as="geometry" />
+          <mxGeometry x="45.5" y="49.5" width="285" height="227" as="geometry" />
         </mxCell>
         <mxCell id="eSlpPb96G4L9tQq7b6oB-6" value="就业平台&#xa;微信小程序端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="70" y="85" width="235" height="48" as="geometry" />
+          <mxGeometry x="70" y="89" width="235" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eSlpPb96G4L9tQq7b6oB-7" value="后台管理&#xa;网页端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="94" y="184" width="188" height="48" as="geometry" />
+          <mxGeometry x="94" y="188" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eSlpPb96G4L9tQq7b6oB-8" value="业务处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="455" y="85" width="125" height="48" as="geometry" />
