@@ -8,7 +8,7 @@
           <mxGeometry x="395" y="14" width="475" height="280" as="geometry" />
         </mxCell>
         <mxCell id="eSlpPb96G4L9tQq7b6oB-2" value="数据层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="670" y="50" width="175" height="226.5" as="geometry" />
+          <mxGeometry x="670" y="44" width="175" height="226.5" as="geometry" />
         </mxCell>
         <mxCell id="eSlpPb96G4L9tQq7b6oB-3" value="业务层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="420" y="44" width="170" height="228" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="94" y="188" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eSlpPb96G4L9tQq7b6oB-8" value="业务处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="455" y="89" width="125" height="48" as="geometry" />
+          <mxGeometry x="442.5" y="89" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="eSlpPb96G4L9tQq7b6oB-9" value="推荐算法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="456" y="188" width="124" height="48" as="geometry" />
