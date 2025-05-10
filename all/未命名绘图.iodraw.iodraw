@@ -11,7 +11,7 @@
           <mxGeometry x="679" y="44" width="175" height="226.5" as="geometry" />
         </mxCell>
         <mxCell id="eSlpPb96G4L9tQq7b6oB-3" value="业务层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="430" y="44" width="170" height="228" as="geometry" />
+          <mxGeometry x="434" y="44" width="170" height="228" as="geometry" />
         </mxCell>
         <mxCell id="eSlpPb96G4L9tQq7b6oB-4" value="应用端&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="14" width="335" height="280" as="geometry" />
@@ -69,10 +69,10 @@
         </mxCell>
         <mxCell id="eSlpPb96G4L9tQq7b6oB-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="111" as="sourcePoint" />
-            <mxPoint x="284" y="213" as="targetPoint" />
+            <mxPoint x="380" y="113" as="sourcePoint" />
+            <mxPoint x="284" y="215" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="380" y="213" />
+              <mxPoint x="380" y="215" />
             </Array>
           </mxGeometry>
         </mxCell>
