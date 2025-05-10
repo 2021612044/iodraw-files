@@ -17,7 +17,7 @@
           <mxGeometry x="80" y="14" width="275" height="280" as="geometry" />
         </mxCell>
         <mxCell id="eSlpPb96G4L9tQq7b6oB-5" value="交互层&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="100" y="47.5" width="230" height="227" as="geometry" />
+          <mxGeometry x="102.5" y="50.5" width="230" height="227" as="geometry" />
         </mxCell>
         <mxCell id="eSlpPb96G4L9tQq7b6oB-6" value="就业平台&#xa;微信小程序端" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="120" y="96" width="188" height="49" as="geometry" />
@@ -72,7 +72,7 @@
             <mxPoint x="380" y="120" as="sourcePoint" />
             <mxPoint x="310" y="222" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="380" y="222" />
+              <mxPoint x="380" y="219" />
             </Array>
           </mxGeometry>
         </mxCell>
