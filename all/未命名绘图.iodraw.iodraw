@@ -20,7 +20,7 @@
           <mxGeometry x="45.5" y="49.5" width="285" height="227" as="geometry" />
         </mxCell>
         <mxCell id="eSlpPb96G4L9tQq7b6oB-6" value="就业平台&#xa;微信小程序端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="96" y="88" width="188" height="49" as="geometry" />
+          <mxGeometry x="96" y="89" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eSlpPb96G4L9tQq7b6oB-7" value="后台管理&#xa;网页端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="96" y="188" width="188" height="48" as="geometry" />
@@ -36,16 +36,6 @@
         </mxCell>
         <mxCell id="eSlpPb96G4L9tQq7b6oB-11" value="Redis数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="685" y="188" width="145" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="eSlpPb96G4L9tQq7b6oB-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="eSlpPb96G4L9tQq7b6oB-6" target="eSlpPb96G4L9tQq7b6oB-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eSlpPb96G4L9tQq7b6oB-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="eSlpPb96G4L9tQq7b6oB-7" target="eSlpPb96G4L9tQq7b6oB-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="eSlpPb96G4L9tQq7b6oB-19" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eSlpPb96G4L9tQq7b6oB-8" target="eSlpPb96G4L9tQq7b6oB-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
