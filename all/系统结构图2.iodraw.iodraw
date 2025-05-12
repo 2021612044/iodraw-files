@@ -86,13 +86,13 @@
           <mxGeometry x="620" y="555" width="186" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pGimbFM3LOlKlhh80YGD-17" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:12.0pt;&lt;br/&gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;用户管理模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="680" width="186" height="30" as="geometry" />
+          <mxGeometry x="100" y="640" width="186" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pGimbFM3LOlKlhh80YGD-18" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:12.0pt;&lt;br/&gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;职位管理模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="730" width="186" height="30" as="geometry" />
+          <mxGeometry x="100" y="690" width="186" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pGimbFM3LOlKlhh80YGD-19" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:12.0pt;&lt;br/&gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;数据统计模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="780" width="186" height="30" as="geometry" />
+          <mxGeometry x="100" y="740" width="186" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pGimbFM3LOlKlhh80YGD-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="pGimbFM3LOlKlhh80YGD-1" target="pGimbFM3LOlKlhh80YGD-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
