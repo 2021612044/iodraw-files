@@ -117,7 +117,7 @@
             <mxPoint x="460" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TNVDqBGSAb_OLniWJUq_-4" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251); font-size: 15px; text-wrap-mode: wrap;&quot;&gt;微信小程序端&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="TNVDqBGSAb_OLniWJUq_-3">
+        <mxCell id="TNVDqBGSAb_OLniWJUq_-4" value="微信小程序端" style="edgeLabel;resizable=0;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="TNVDqBGSAb_OLniWJUq_-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="40" as="offset" />
           </mxGeometry>
