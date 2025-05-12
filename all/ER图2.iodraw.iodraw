@@ -33,7 +33,7 @@
             <mxRectangle width="71" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="90Uj863e2QRSHOZzvItj-3" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=16;" vertex="1" parent="90Uj863e2QRSHOZzvItj-1">
+        <mxCell id="90Uj863e2QRSHOZzvItj-3" value="..." style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=16;" vertex="1" parent="90Uj863e2QRSHOZzvItj-1">
           <mxGeometry x="71" width="130" height="22" as="geometry">
             <mxRectangle width="130" height="22" as="alternateBounds" />
           </mxGeometry>
