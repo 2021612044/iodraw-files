@@ -75,7 +75,7 @@
         <mxCell id="pGimbFM3LOlKlhh80YGD-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;岗位发布与管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="641" y="455" width="169" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pGimbFM3LOlKlhh80YGD-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;简历筛选与沟通&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="pGimbFM3LOlKlhh80YGD-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;简历筛选与在线沟通&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="641" y="505" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pGimbFM3LOlKlhh80YGD-15" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;企业信息管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
@@ -115,7 +115,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TNVDqBGSAb_OLniWJUq_-1" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;微信小程序端&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;学生用户&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="315" y="210" width="130" height="80" as="geometry" />
+          <mxGeometry x="315" y="210" width="145" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
