@@ -54,7 +54,7 @@
         <mxCell id="pGimbFM3LOlKlhh80YGD-6" value="企业用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="425" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pGimbFM3LOlKlhh80YGD-7" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:12.0pt;&lt;br/&gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;用户注册与登录&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pGimbFM3LOlKlhh80YGD-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;用户注册与登录&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="550" y="205" width="186" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pGimbFM3LOlKlhh80YGD-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;在线简历&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
@@ -63,7 +63,7 @@
         <mxCell id="pGimbFM3LOlKlhh80YGD-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;职位搜索与推荐&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="40" y="235" width="186" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pGimbFM3LOlKlhh80YGD-10" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:12.0pt;&lt;br/&gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;职位申请与收藏&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pGimbFM3LOlKlhh80YGD-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;职位申请与收藏&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="550" y="265" width="186" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pGimbFM3LOlKlhh80YGD-11" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;消息通知与在线沟通&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
@@ -81,13 +81,13 @@
         <mxCell id="pGimbFM3LOlKlhh80YGD-15" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:12.0pt;&lt;br/&gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;企业信息管理模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="555" width="186" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pGimbFM3LOlKlhh80YGD-17" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:12.0pt;&lt;br/&gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;用户管理模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pGimbFM3LOlKlhh80YGD-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;用户管理模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-90" y="425" width="186" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pGimbFM3LOlKlhh80YGD-18" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:12.0pt;&lt;br/&gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;职位管理模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pGimbFM3LOlKlhh80YGD-18" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;职位管理模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-90" y="475" width="186" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pGimbFM3LOlKlhh80YGD-19" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:12.0pt;&lt;br/&gt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;数据统计模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pGimbFM3LOlKlhh80YGD-19" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;数据统计模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-90" y="525" width="186" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pGimbFM3LOlKlhh80YGD-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="pGimbFM3LOlKlhh80YGD-3" target="pGimbFM3LOlKlhh80YGD-1" edge="1">
