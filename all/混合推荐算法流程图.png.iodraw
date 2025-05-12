@@ -57,7 +57,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wzZ_tkVEWcQmtZO6a3vv-12" value="冷启动补充" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.04;entryY=1;rounded=0;fontSize=16;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wzZ_tkVEWcQmtZO6a3vv-6" target="wzZ_tkVEWcQmtZO6a3vv-5">
-          <mxGeometry x="0.0291" y="22" relative="1" as="geometry">
+          <mxGeometry x="-0.153" y="13" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="666" y="193" />
             </Array>
