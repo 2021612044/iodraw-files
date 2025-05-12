@@ -891,7 +891,9 @@
         </mxCell>
         <mxCell id="v6lAXG_b1BkWVNJ9srUH-343" value="posts" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERoneToMany;endSize=10;;exitX=0.502;exitY=1.002;entryX=0.5;entryY=0;rounded=0;fontSize=16;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="v6lAXG_b1BkWVNJ9srUH-91" target="v6lAXG_b1BkWVNJ9srUH-95" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="760" y="780" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="v6lAXG_b1BkWVNJ9srUH-348" value="applies to" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERoneToMany;endSize=10;;exitX=0;exitY=0.58;entryX=0;entryY=0.35;rounded=0;fontSize=16;" parent="1" source="v6lAXG_b1BkWVNJ9srUH-1" target="v6lAXG_b1BkWVNJ9srUH-288" edge="1">
