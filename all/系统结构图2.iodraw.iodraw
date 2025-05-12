@@ -70,10 +70,10 @@
           <mxGeometry x="40" y="300" width="186" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pGimbFM3LOlKlhh80YGD-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;企业账号注册模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="641" y="405" width="186" height="30" as="geometry" />
+          <mxGeometry x="641" y="405" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pGimbFM3LOlKlhh80YGD-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;岗位发布与管理模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="641" y="455" width="186" height="30" as="geometry" />
+          <mxGeometry x="641" y="455" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pGimbFM3LOlKlhh80YGD-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;简历筛选与沟通模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="641" y="505" width="186" height="30" as="geometry" />
