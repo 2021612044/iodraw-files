@@ -904,7 +904,7 @@
         <mxCell id="v6lAXG_b1BkWVNJ9srUH-350" value="favorites" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERoneToMany;endSize=10;;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;fontSize=16;exitDx=0;exitDy=0;" parent="1" source="v6lAXG_b1BkWVNJ9srUH-2" target="v6lAXG_b1BkWVNJ9srUH-325" edge="1">
           <mxGeometry x="-0.0176" y="-44" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1020" y="190" />
+              <mxPoint x="990" y="230" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
