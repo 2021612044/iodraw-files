@@ -76,12 +76,12 @@
           <mxGeometry x="641" y="455" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pGimbFM3LOlKlhh80YGD-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;简历筛选与沟通模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="641" y="505" width="186" height="30" as="geometry" />
+          <mxGeometry x="641" y="505" width="169" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pGimbFM3LOlKlhh80YGD-15" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;企业信息管理模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="641" y="555" width="186" height="30" as="geometry" />
+          <mxGeometry x="641" y="555" width="169" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pGimbFM3LOlKlhh80YGD-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;用户管理模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="pGimbFM3LOlKlhh80YGD-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;用户管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-50" y="425" width="166" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pGimbFM3LOlKlhh80YGD-18" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;职位管理模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
