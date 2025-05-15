@@ -134,13 +134,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9i1CtNat1zT914xDJaS2-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.1;exitY=1;entryX=0.26;entryY=0;rounded=0;" edge="1" parent="1" source="9i1CtNat1zT914xDJaS2-12" target="9i1CtNat1zT914xDJaS2-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="420" y="205" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9i1CtNat1zT914xDJaS2-32" value="命中" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.67;entryY=0;rounded=0;" edge="1" parent="1" source="9i1CtNat1zT914xDJaS2-12" target="9i1CtNat1zT914xDJaS2-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
