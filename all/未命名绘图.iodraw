@@ -28,7 +28,7 @@
         <mxCell id="9i1CtNat1zT914xDJaS2-8" value="协同过滤计算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="274" y="561" width="158" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="9i1CtNat1zT914xDJaS2-9" value="混合排序(Top200)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="9i1CtNat1zT914xDJaS2-9" value="混合排序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="108" y="660" width="186" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9i1CtNat1zT914xDJaS2-10" value="存入推荐表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
