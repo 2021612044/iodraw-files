@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9i1CtNat1zT914xDJaS2-1" value="每日03:00触发" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="9i1CtNat1zT914xDJaS2-1" value="每日03:00触发" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="118" y="20" width="165" height="49" as="geometry" />
         </mxCell>
         <mxCell id="9i1CtNat1zT914xDJaS2-2" value="数据预处理" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
