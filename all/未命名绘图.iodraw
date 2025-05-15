@@ -19,7 +19,7 @@
         <mxCell id="9i1CtNat1zT914xDJaS2-5" value="候选集生成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="130" y="340" width="142" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="9i1CtNat1zT914xDJaS2-6" value="" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="9i1CtNat1zT914xDJaS2-6" value="并行计算" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="186" y="472" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9i1CtNat1zT914xDJaS2-7" value="内容推荐计算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
